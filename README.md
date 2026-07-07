@@ -1,5 +1,6 @@
 # computercraft-twitchchat
 Display twitch chat onto a monitor in minecraft using computer craft! Feel free to use this repo however you like.
+The raw link if you want to use wget in your terminal: https://raw.githubusercontent.com/Peredoxxed/computercraft-twitchchat/refs/heads/main/twitchchat.lua
 # How it works
 
 Essentially, twitch chat is just IRC over a websocket, and CC:Tweaked supports it directly so there is no need for an OAuth token or anything as we are only reading chat and not posting anything (might eventually add a feature? who knows)
